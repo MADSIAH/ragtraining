@@ -1,0 +1,17 @@
+anthropic
+python-dotenv
+pymupdf
+numpy
+pandas
+pyarrow
+rank-bm25
+ollama
+matplotlib
+jupyter
+pytest
+python-docx
+snowballstemmer
+sentence-transformers
+torch
+streamlit
+faiss-cpu

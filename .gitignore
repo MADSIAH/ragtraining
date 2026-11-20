@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Course material (private, large) and generated data
+/corpus
+data/
+
+# Python
+.venv/
+.venv-*/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Personal study material (not committed)
+VOCABULARY.md
+VOCABULARY.pdf
+
+# Corpus-specific rules and private terms for the public export (names, file names)
+corpus_rules.local.json
+*.local.txt
+*.local.json

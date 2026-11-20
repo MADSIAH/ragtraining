@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy to corpus_rules.local.json (git-ignored) and adapt it to your own corpus. Every key is optional.",
+  "owner_pattern": "your_first_name|your_last_name",
+  "course_overrides": {"file_saved_in_the_wrong_folder.pdf": "Real Course Name"},
+  "excluded_courses": {"Some Course To Skip": "why it is excluded"},
+  "textbook_name_pattern": "author_name_of_a_short_textbook",
+  "drop_files": {"scanned_duplicate_name_part": "scanned copy; readable version kept"},
+  "extra_admin_pattern": "",
+  "extra_personal_folder_pattern": ""
+}
